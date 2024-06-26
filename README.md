@@ -13,10 +13,6 @@ The game consists of a grid of cells, each of which can be alive or dead. Each c
 3. A live cell with more than three live neighbors dies (overpopulation).
 4. A dead cell with exactly three live neighbors becomes alive (reproduction).
 
-## License
-
-This project is licensed under the MIT License. Details can be found in the LICENSE file.
-
 # Графічна візуалізація гри «Життя» Джона Конвея
 
 ## Опис проекту
@@ -32,6 +28,16 @@ This project is licensed under the MIT License. Details can be found in the LICE
 3. Жива клітина з більш ніж трьома живими сусідами вмирає (перенаселення).
 4. Мертва клітина з рівно трьома живими сусідами стає живою (відродження).
 
-## Ліцензія
+# Images
 
-Цей проект ліцензований під MIT License. Деталі в файлі LICENSE.
+![skrin1](images/skrin1.png)
+
+![skrin2](images/skrin2.png)
+
+![skrin3](images/skrin3.png)
+
+![skrin4](images/skrin4.png)
+
+![skrin5](images/skrin5.png)
+
+![skrin6](images/skrin6.png)
